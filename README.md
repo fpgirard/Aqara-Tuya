@@ -16,8 +16,6 @@ This project provides the Aqara and Tuya controllers with a sturdy mount that:
 
 This repository has the following directories:
 
-https://github.com/fpgirard/Aqara-Tuya/tree/main/doc
-
 [<code>src</code>](https://github.com/fpgirard/Aqara-Tuya/tree/main/src) has OpenSCAD source for the T1 mount and HA test scripts for 100 on/off tests  
 [<code>stl</code>](https://github.com/fpgirard/Aqara-Tuya/tree/main/stl) contains various .stl files for different valve bodies for both the Aqara and Tuya controllers   
 [<code>doc</code>](https://github.com/fpgirard/Aqara-Tuya/tree/main/doc) has installation instructions and other supporting documents (images).
